@@ -2,7 +2,7 @@
     "domain": "example.com",
     "https": false,
     "discord": {
-        "token": "",
+        "token": "token",
         "guild-id": "",
         "verified-role-id": "",
         "privileged-intents": true
